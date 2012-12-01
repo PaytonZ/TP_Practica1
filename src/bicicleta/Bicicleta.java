@@ -3,7 +3,7 @@ package bicicleta;
 public class Bicicleta 
 {
 	//numero de piñones y platos que tiene la bicicleta
-	protected int numpiñon ;
+	protected int numpinon ;
 	protected int numplato ;
 	
 	//el numero actual del piñon y plato
